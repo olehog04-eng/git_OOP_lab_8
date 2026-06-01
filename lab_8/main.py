@@ -1,5 +1,4 @@
 import math
-import numpy as np
 def sequence(x, n):
     return [(x ** k) / k for k in range(1, n + 1)]
 def product(n):
